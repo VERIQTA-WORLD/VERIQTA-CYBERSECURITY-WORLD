@@ -17,8 +17,6 @@ Cybersecurity learning publications, organised into ten subject groups.
 - [Cloud and Infrastructure Security](09-CLOUD-AND-INFRASTRUCTURE-SECURITY/)
 - [Specialized Defensive Security and Career](10-SPECIALIZED-DEFENSIVE-SECURITY-AND-CAREER/)
 
-Only groups with available publications have folders.
-
 Use these materials for learning and practise only in authorised environments.
 
 ## Licence
