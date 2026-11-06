@@ -1,5 +1,7 @@
 # VERIQTA CYBERSECURITY WORLD
 
+![VERIQTA Cybersecurity World — Learn. Investigate. Defend.](assets/cybersecurity-world-banner.svg)
+
 Cybersecurity learning publications, organised into ten subject groups.
 
 ## Subject groups
