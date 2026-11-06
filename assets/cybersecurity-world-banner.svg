@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="360" viewBox="0 0 1440 360" role="img" aria-labelledby="title desc">
+  <title id="title">VERIQTA Cybersecurity World</title>
+  <desc id="desc">Cybersecurity learning, investigation, and professional practice.</desc>
+  <rect width="1440" height="360" rx="20" fill="#09251F"/>
+  <circle cx="1340" cy="40" r="240" fill="#123D31"/>
+  <circle cx="1340" cy="40" r="180" fill="none" stroke="#31584B" stroke-width="2"/>
+  <path d="M64 284H1090" stroke="#31584B" stroke-width="2"/>
+  <rect x="64" y="58" width="48" height="5" rx="2" fill="#67E8A5"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="112" font-size="30" font-weight="700" letter-spacing="6" fill="#67E8A5">VERIQTA</text>
+    <text x="60" y="188" font-size="60" font-weight="700" fill="#F1FAF5">CYBERSECURITY WORLD</text>
+    <text x="64" y="240" font-size="24" fill="#A8C7BE">Learn. Investigate. Defend.</text>
+  </g>
+  <path d="M1260 126L1320 148V198C1320 235 1292 262 1260 278C1228 262 1200 235 1200 198V148Z" fill="#09251F" stroke="#67E8A5" stroke-width="4"/>
+  <path d="M1232 199L1252 219L1290 179" fill="none" stroke="#67E8A5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
